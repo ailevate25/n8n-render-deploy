@@ -12,5 +12,3 @@ ENV N8N_PORT=5678
 # Expose the n8n port
 EXPOSE 5678
 
-# Start n8n
-CMD ["npm", "run", "start"]
